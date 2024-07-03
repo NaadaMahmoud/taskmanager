@@ -65,14 +65,6 @@
 - **Database:**
     - MongoDB for efficient and scalable data storage.
 
-
-The Cloud-Based Task Manager is an innovative solution that brings efficiency and organization to task management within teams. By harnessing the power of the MERN stack and modern frontend technologies, the platform provides a seamless experience for both administrators and users, fostering collaboration and productivity.
-
-&nbsp;
-
-## SETUP INSTRUCTIONS
-
-
 # Server Setup
 
 ## Environment variables
@@ -113,10 +105,6 @@ First, create the environment variables file `.env` in the server folder. The `.
 2. Navigate into the server directory `cd server`.
 3. Run `npm i` or `npm install` to install the packages.
 4. Run `npm start` to start the server.
-
-If configured correctly, you should see a message indicating that the server is running successfully and `Database Connected`.
-
-&nbsp;
 
 # Client Side Setup
 
